@@ -1,0 +1,3 @@
+# Demo JavaScript
+
+- `console.log()`
